@@ -1,0 +1,31 @@
+@charset "utf-8";
+/*内容部分*/
+
+
+.main3 h3{
+    margin-left:15px;
+}
+.main3 .jiahao{
+    color: white;
+    font-size: 6px!important;
+    background-color: black;
+    position: absolute;
+    right: 0;
+    top: 0;
+    border: none;
+    width: 20px;
+    height: 20px;
+    z-index: 999;
+}
+.main3 .imgbtn{
+    position: relative;
+    display: inline-block
+}
+.main3 .col-sm-3{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+.main3 .col-sm-3 p{
+    margin-top: 20px;
+}

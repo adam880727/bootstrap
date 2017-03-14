@@ -1,0 +1,80 @@
+@charset "utf-8";
+.index-h-text{
+    position: absolute;
+    z-index: 900;
+    width: 49%;
+    left:5%;
+    top: 65%;
+    background-color: white;
+    padding-left:5%;
+    opacity: 0.4;
+}
+.index-h-text h2{
+    line-height: .7;
+}
+.banner a.left{
+    position: absolute;
+    width: 28px;
+    overflow: hidden;
+    top:50%;
+    left: 0
+}
+.banner a.right{
+    position: absolute;
+    width: 28px;
+    overflow: hidden;
+    top:50%;
+    right: 0;
+   
+}
+.banner a.right>img{
+     margin-left: -29px;
+}
+.main1 button{
+    margin-bottom: 15px;
+}
+.main4{
+   background-color: white;
+    padding:50px 7% 25px 0;
+    border-bottom: 1px solid #d7d7d7;
+    border-top:1px solid #d7d7d7; 
+    
+}
+.main4 .main4-p1{
+    width: 70%;
+    padding-left: 15%;
+    font-size: 1.2em;
+    position: relative;
+}
+.main4 img{
+    position: absolute;
+    left:12%;
+    top:-10px;
+}
+.main4 .main4-p2{
+    text-align: right;
+}
+.jiahao{
+    color: white;
+    background-color: black;
+    position: absolute;
+    right: 0;
+    top: 0;
+    border: none;
+    width: 20px;
+    height: 20px;
+    z-index: 999;
+}
+.imgbtn{
+    position: relative;
+    display: inline-block
+}
+.main3 .col-sm-3{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+.main1,.main2{
+    margin-bottom: 30px;
+    text-align: center;
+}
